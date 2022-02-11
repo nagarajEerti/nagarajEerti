@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262319737211",
+    "project_id": "uninote-b93e2",
+    "storage_bucket": "uninote-b93e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262319737211:android:55c0d559e135d2885815de",
+        "android_client_info": {
+          "package_name": "com.uninote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262319737211-1jfk5th8b67l0jda35p7gm6jahgfvfp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGU0rYfLufc99i2JnSyyiajvaIedck6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262319737211-1jfk5th8b67l0jda35p7gm6jahgfvfp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
